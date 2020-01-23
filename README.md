@@ -1,0 +1,2 @@
+# gaming-site
+pure html
